@@ -134,6 +134,9 @@
 	<profiles>
 
 		<profile>
+			<id>docker-image</id>
+		</profile>
+		<profile>
 			<id>local</id>
 			<properties>
 				<activatedProperties>local</activatedProperties>
