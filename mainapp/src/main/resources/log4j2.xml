@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration strict="true" packages="com.collective.powerplant">
+<Configuration strict="true" packages="com.collective.backbase">
 
     <Properties>
         <Property name="baseDir">${env:LOG_PATH}</Property>
@@ -38,7 +38,7 @@
 
         <Logger name="org.springframework.orm.jpa.vendor.HibernateJpaDialect" level="OFF" additivity="false"/>
 
-        <logger name="com.collective.powerplant" level="debug" additivity="false">
+        <logger name="com.collective.backbase" level="debug" additivity="false">
             <AppenderRef ref="Console" />
             <AppenderRef ref="APP_FILE" />
             <AppenderRef ref="DEBUG_FILE" />

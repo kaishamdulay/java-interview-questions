@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>powerplant</artifactId>
-        <groupId>com.collective.powerplant</groupId>
+        <artifactId>backbase</artifactId>
+        <groupId>com.collective.backbase</groupId>
         <version>version</version>
     </parent>
 
     <artifactId>mainapp</artifactId>
-    <version>${powerplant.version}</version>
+    <version>${backbase.version}</version>
 
     <name>mainapp</name>
 
@@ -45,9 +45,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.collective.powerplant</groupId>
+            <groupId>com.collective.backbase</groupId>
             <artifactId>datasource</artifactId>
-            <version>${powerplant.version}</version>
+            <version>${backbase.version}</version>
         </dependency>
 
         <dependency>

@@ -15,18 +15,18 @@
 
 	</modules>
 
-	<groupId>com.collective.powerplant</groupId>
-	<artifactId>powerplant</artifactId>
+	<groupId>com.collective.backbase</groupId>
+	<artifactId>backbase</artifactId>
 	<version>version</version>
-	<name>Powerplant Service</name>
+	<name>BackBase Url Santizier Service</name>
 
 	<properties>
 		<java.version>1.8</java.version>
-		<powerplant.version>0.0.1-SNAPSHOT</powerplant.version>
-		<start-class>com.collective.powerplant.PowerplantApplication</start-class>
-		<main-class>com.collective.powerplant.PowerplantApplication</main-class>
+		<backbase.version>0.0.1-SNAPSHOT</backbase.version>
+		<start-class>com.collective.backbase.BackBaseApplication</start-class>
+		<main-class>com.collective.backbase.BackBaseApplication</main-class>
 
-		<product.name>Powerplant</product.name>
+		<product.name>BackBase</product.name>
 		<swagger-annotations-version>1.5.20</swagger-annotations-version>
 		<powermock-module-junit4-version>2.0.0</powermock-module-junit4-version>
 		<springfox-swagger-ui.version>3.0.0</springfox-swagger-ui.version>
