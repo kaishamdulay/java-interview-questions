@@ -11,7 +11,7 @@ To login to h2 database please follow the below link
 http://localhost:8080/h2-console
 
 Please refer application.properties and use
-spring.datasource.username 
+spring.datasource.username
 spring.datasource.password
 spring.datasource.url
 to login to the database to verify database values
