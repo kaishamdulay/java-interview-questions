@@ -1,4 +1,3 @@
-To run the project please extract the zip in a folder
 Run the following command to run the application
 
 
