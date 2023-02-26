@@ -12,6 +12,7 @@
 	<modules>
 		<module>mainapp</module>
 		<module>datasource</module>
+		<module>health</module>
 
 	</modules>
 
@@ -32,7 +33,9 @@
 		<springfox-swagger-ui.version>3.0.0</springfox-swagger-ui.version>
 		<springfox-boot-starter.version>3.0.0</springfox-boot-starter.version>
 		<cglib.version>3.3.0</cglib.version>
-
+		<junit-version>4.12</junit-version>
+		<powermock-api-mockito2-version>2.0.0</powermock-api-mockito2-version>
+		<powermock-module-junit4-version>2.0.0</powermock-module-junit4-version>
 	</properties>
 
 	<dependencies>
